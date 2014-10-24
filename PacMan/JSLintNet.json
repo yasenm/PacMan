@@ -1,0 +1,14 @@
+﻿{
+  "ignore": [],
+  "options": {
+    "predef": {},
+    "browser": true,
+    "continue": true,
+    "devel": true,
+    "forin": true,
+    "plusplus": true,
+    "sloppy": true,
+    "vars": true
+  },
+  "runOnSave": true
+}

@@ -1,0 +1,6 @@
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\bin\PacMan.dll.config
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\bin\PacMan.dll
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\bin\PacMan.pdb
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\obj\Debug\PacMan.dll
+C:\Users\Yasen\Documents\GitHub\TeamMonsterGame\TeamMonsterPacMan\PacMan\obj\Debug\PacMan.pdb

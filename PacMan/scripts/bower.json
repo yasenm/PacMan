@@ -1,0 +1,16 @@
+{
+  "name": "scripts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TeamMonsterJS/TeamMonsterGame",
+  "authors": [
+    "Yasen <ias_sv_bg@yahoo.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

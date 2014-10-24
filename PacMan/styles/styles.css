@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #bf6208;
+}
+
+#menu-container {
+    display:inline-block;
+    margin-left:760px;
+}
+
+#score-container {
+    display:inline-block;    
+    margin-left:760px;
+}
